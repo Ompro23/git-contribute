@@ -10,4 +10,3 @@ Add your name to the contribution list using a pull request.
 
 - Om Vataliya
 - Shivay
-- test
