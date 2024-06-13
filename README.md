@@ -10,3 +10,4 @@ Add your name to the contribution list using a pull request.
 
 - Om Vataliya
 - Shivay
+- sample name in the workshop
